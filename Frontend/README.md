@@ -1,4 +1,4 @@
-# remedico
+# Remicure
 
 A new Flutter application.
 
